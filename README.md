@@ -22,11 +22,18 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Step 1: Connect to your Virtual Machine with Remote Desktop
+- Step 2: Install / Enable IIS in Windows
+- Step 3: Install Web Platform Installer
+- Step 4: Install osTicket v1.15.8
+- Step 5: Reload IIS (Open IIS, Stop and Start the server)
+- Step 6: Enable Extensions in IIS
+- Step 7: Rename
+- Step 8: Assign Permissions
+- Step 9: Continue Set-up
+- Step 10: Download and Install HeidiSQL
+- Step 11: Finalize osTicket Set-up | MySQL Username and Password
+
 
 <h2>Installation Steps</h2>
 
